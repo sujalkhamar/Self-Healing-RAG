@@ -1,0 +1,71 @@
+E-COMMERCE REFUND AND RETURNS POLICY
+=====================================
+Last Updated: January 2025
+
+SECTION 1: OVERVIEW
+--------------------
+Our company is committed to ensuring complete customer satisfaction. This document
+outlines our comprehensive refund, return, and exchange policy for all product
+categories sold through our platform.
+
+SECTION 2: PHYSICAL PRODUCTS
+------------------------------
+Physical products may be returned within 30 days of the original purchase date,
+provided they are in their original, unused condition with all original packaging
+and tags intact. Customers must obtain a Return Merchandise Authorization (RMA)
+number before shipping items back. Return shipping costs are the responsibility
+of the customer unless the return is due to our error or a defective product.
+
+Refunds for physical products are processed within 5-7 business days of receiving
+the returned item and passing quality inspection. Refunds are issued to the original
+payment method only. We do not offer cash refunds for credit card purchases.
+
+SECTION 3: DIGITAL PRODUCTS AND DOWNLOADS
+-------------------------------------------
+Digital products, including software licenses, e-books, downloadable templates,
+online courses, and digital subscriptions, are governed by a strict no-refund
+policy once the product has been accessed, downloaded, or the license key has
+been revealed. This policy exists because digital products cannot be "returned"
+in the traditional sense once delivered.
+
+Exceptions to the digital product no-refund rule:
+  a) Technical failure: If the digital product is demonstrably non-functional
+     due to a defect on our part, and we are unable to provide a working
+     replacement within 72 hours, a full refund will be issued.
+  b) Unauthorized purchase: If you believe a purchase was made without your
+     authorization, contact our fraud department within 48 hours.
+  c) Pre-purchase cancellation: If you cancel a digital product order before
+     it is delivered or the download link is generated, a full refund applies.
+  d) Subscription services: Monthly subscriptions may be cancelled at any time;
+     however, the current billing period will not be refunded. Annual
+     subscriptions may be refunded on a pro-rated basis within the first 14
+     days of the subscription term.
+
+SECTION 4: BUNDLES AND COMBO PRODUCTS
+---------------------------------------
+If a bundle contains both physical and digital components, the physical component
+follows the 30-day return policy. The digital component follows the digital
+no-refund policy unless an exception listed in Section 3 applies.
+
+SECTION 5: HOW TO REQUEST A REFUND
+-------------------------------------
+To initiate a refund request:
+  1. Log into your account at our website.
+  2. Navigate to "Order History" and select the relevant order.
+  3. Click "Request Refund" and complete the refund request form.
+  4. Our support team will respond within 2 business days.
+  5. Approved refunds are processed within 5-7 business days.
+
+For urgent cases, contact support@example-store.com or call 1-800-555-0199.
+
+SECTION 6: CHARGEBACKS AND DISPUTES
+--------------------------------------
+We strongly encourage customers to contact us before initiating a chargeback
+with their bank or credit card provider. Unauthorized chargebacks may result in
+account suspension. We work diligently to resolve disputes fairly and promptly.
+
+SECTION 7: PROMOTIONAL AND DISCOUNTED ITEMS
+---------------------------------------------
+Items purchased at a discount of 50% or more during promotional sales are
+considered final sale and are not eligible for returns or refunds, except in
+cases of product defect or fulfillment error.

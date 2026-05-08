@@ -1,0 +1,80 @@
+GLOBEX CORPORATION — EMPLOYEE HANDBOOK 2025
+============================================
+Human Resources Department | Confidential Internal Document
+
+SECTION A: COMPENSATION AND BENEFITS
+--------------------------------------
+A.1 Salary Structure
+Globex Corporation follows a banded salary structure with six compensation bands
+(Band 1 through Band 6). Band 1 covers entry-level positions (annual salary range:
+$45,000–$65,000). Band 6 covers senior executive roles (annual salary range:
+$250,000–$500,000 plus equity). All salaries are reviewed annually during the
+performance review cycle in Q4.
+
+A.2 Health Insurance
+Full-time employees are eligible for health insurance coverage starting on the
+first day of the month following their 30-day probationary period. Globex offers
+three plan tiers: Basic (HMO), Standard (PPO), and Premium (PPO+Dental+Vision).
+The company covers 80% of the premium for the employee; dependents may be added
+at the employee's expense.
+
+A.3 Paid Time Off (PTO)
+Employees accrue PTO based on their tenure:
+  - 0–1 years:  15 days per year
+  - 1–3 years:  18 days per year
+  - 3–7 years:  22 days per year
+  - 7+ years:   28 days per year
+PTO accrues monthly (1/12 of the annual allocation per month). Unused PTO may be
+carried over up to a maximum of 10 days into the next calendar year. PTO is paid
+out upon termination at the current base rate.
+
+A.4 Retirement Plan (401k)
+Globex offers a 401(k) plan with a company match of up to 4% of the employee's
+annual salary. Employees are eligible to enroll after 90 days of employment.
+The company match vests fully after 3 years of continuous employment (cliff vesting).
+
+SECTION B: WORKPLACE POLICIES
+-------------------------------
+B.1 Remote Work Policy
+Globex operates a hybrid work model. Employees are expected to be in the office
+at least three days per week (Tuesday, Wednesday, Thursday are the designated
+anchor days). Fully remote arrangements require written approval from the department
+head and HR director and are reviewed quarterly.
+
+B.2 Code of Conduct
+All employees are expected to maintain professional conduct, treat colleagues with
+respect, and avoid conflicts of interest. Discrimination, harassment, and retaliation
+of any kind are strictly prohibited and will result in immediate disciplinary action
+up to and including termination.
+
+B.3 Data Security and Confidentiality
+Employees must not share proprietary information, client data, or trade secrets
+with unauthorized parties. All company laptops are encrypted with AES-256.
+Employees must use VPN when accessing internal systems remotely. Violations of
+data security policies are grounds for immediate termination and may result in
+legal action.
+
+SECTION C: PERFORMANCE MANAGEMENT
+------------------------------------
+C.1 Annual Review Cycle
+Performance reviews are conducted annually in December. Reviews use a five-point
+scale: Exceeds Expectations, Meets Expectations, Partially Meets Expectations,
+Does Not Meet Expectations, and New Employee (for those with less than 6 months tenure).
+
+C.2 Performance Improvement Plans (PIPs)
+Employees rated "Does Not Meet Expectations" for two consecutive review cycles will
+be placed on a Performance Improvement Plan. PIPs last 90 days and include
+bi-weekly check-ins with the manager and HR. Successful completion of a PIP removes
+the employee from probationary status.
+
+SECTION D: OFFBOARDING
+------------------------
+D.1 Resignation
+Employees are requested to provide at least two weeks' written notice of resignation.
+Senior roles (Band 4 and above) are asked to provide four weeks' notice. Final
+paychecks are issued on the next regular pay date following the last day of work.
+
+D.2 Involuntary Termination
+In cases of involuntary termination without cause, Globex provides severance pay
+equal to two weeks of base salary for every completed year of service, up to a
+maximum of 26 weeks. Severance is conditional on signing a separation agreement.

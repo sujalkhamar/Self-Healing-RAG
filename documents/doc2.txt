@@ -1,0 +1,86 @@
+ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING — TECHNICAL OVERVIEW
+==================================================================
+Edition: 2025 Technical Reference
+
+CHAPTER 1: FOUNDATIONS OF MACHINE LEARNING
+--------------------------------------------
+Machine learning (ML) is a subfield of artificial intelligence that enables
+computer systems to learn from data and improve their performance over time
+without being explicitly programmed for each task. The three primary paradigms
+of machine learning are supervised learning, unsupervised learning, and
+reinforcement learning.
+
+Supervised learning involves training a model on labeled input-output pairs.
+The model learns a mapping function that can generalize to unseen data. Common
+algorithms include linear regression, logistic regression, decision trees,
+random forests, support vector machines (SVMs), and neural networks.
+
+Unsupervised learning deals with unlabeled data. The model identifies hidden
+patterns, structures, or groupings without human guidance. Key techniques include
+k-means clustering, hierarchical clustering, principal component analysis (PCA),
+and autoencoders.
+
+Reinforcement learning (RL) involves an agent learning to make decisions by
+interacting with an environment. The agent receives rewards or penalties based
+on its actions and learns a policy that maximizes cumulative reward. RL powers
+applications such as game-playing AI, robotic control, and recommendation engines.
+
+CHAPTER 2: LARGE LANGUAGE MODELS (LLMs)
+-----------------------------------------
+Large Language Models are deep learning models trained on massive text corpora
+using the Transformer architecture. They learn to predict the next token in a
+sequence, enabling them to generate coherent, contextually relevant text.
+
+Key LLM concepts:
+- Parameters: The trainable weights in a model. GPT-4 is estimated to have over
+  1 trillion parameters.
+- Tokenization: The process of splitting text into sub-word units (tokens).
+- Attention mechanism: Allows the model to focus on different parts of the input
+  when generating each output token.
+- Fine-tuning: Adapting a pre-trained LLM to a specific task or domain using
+  additional labeled data.
+- RLHF (Reinforcement Learning from Human Feedback): A technique used to align
+  LLM outputs with human preferences.
+
+CHAPTER 3: RETRIEVAL-AUGMENTED GENERATION (RAG)
+-------------------------------------------------
+Retrieval-Augmented Generation (RAG) is an AI framework that enhances LLM
+responses by dynamically retrieving relevant external information before generation.
+Rather than relying solely on parametric knowledge (what the model learned during
+training), RAG systems augment the model's context window with retrieved documents.
+
+Standard RAG pipeline:
+  1. User submits a query.
+  2. The query is encoded into a dense vector using an embedding model.
+  3. The vector is compared against a pre-indexed document store (vector database).
+  4. Top-k most semantically similar chunks are retrieved.
+  5. Retrieved chunks are injected into the LLM's context as a prompt prefix.
+  6. The LLM generates a grounded response using the retrieved context.
+
+Advantages of RAG:
+  - Reduces hallucination by grounding answers in retrieved facts.
+  - Enables knowledge updates without full model retraining.
+  - Provides citations and auditability.
+  - Works well with frequently changing knowledge bases.
+
+CHAPTER 4: VECTOR DATABASES
+-----------------------------
+Vector databases are purpose-built systems for storing, indexing, and querying
+high-dimensional vector embeddings. They use approximate nearest neighbor (ANN)
+algorithms such as HNSW (Hierarchical Navigable Small World) and IVF (Inverted
+File Index) to enable sub-millisecond similarity search over millions of vectors.
+
+Popular vector databases:
+  - ChromaDB: Open-source, Python-native, suitable for local development.
+  - Pinecone: Managed cloud service optimized for production scale.
+  - Weaviate: Open-source with built-in ML model integrations.
+  - FAISS: Facebook AI Similarity Search — a library (not a full DB).
+  - pgvector: PostgreSQL extension for vector similarity search.
+
+CHAPTER 5: EMBEDDINGS
+-----------------------
+Embeddings are dense numerical representations of text (or other data) in a
+continuous vector space. Semantically similar texts produce vectors that are
+close together (low cosine distance). OpenAI's text-embedding-3-small model
+produces 1536-dimensional vectors and offers an excellent balance of quality,
+speed, and cost for most RAG applications.
