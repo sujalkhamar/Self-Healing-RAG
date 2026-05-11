@@ -69,7 +69,7 @@ def retrieve(state: RAGState) -> dict:
 
     print(f"[RETRIEVE] Found {len(chunks)} chunk(s) for query: '{query}'")
     for i, chunk in enumerate(chunks, 1):
-        preview = chunk[:80].replace("\n", " ")
+        preview = chunk[:200].replace("\n", " ")
         print(f"  [{i}] {preview}...")
 
     return {"retrieved_chunks": chunks}
@@ -101,8 +101,7 @@ def generate(state: RAGState) -> dict:
     response = chain.invoke({"chunks": chunks_text, "query": query})
     answer   = response.content.strip()
 
-    suffix = "..." if len(answer) > 120 else ""
-    print(f"[GENERATE] Answer ({len(answer)} chars): {answer[:120]}{suffix}")
+    print(f"[GENERATE] Answer ({len(answer)} chars):\n{answer}")
 
     return {"generated_answer": answer}
 
